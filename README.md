@@ -1,4 +1,4 @@
-- #### 👋 Hi, I’m Karianne
+- 👋 Hi, I’m Karianne
 - 🌱 I’m currently learning R
 
 <!---
